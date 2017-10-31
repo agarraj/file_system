@@ -1,0 +1,12 @@
+struct inode
+{
+	short inode_nubmer;
+
+}
+
+- Directory can be a map of file/direcotry name corresponding to their inode   number.
+- Inode contains the actual block number where the file is stored 
+
+- Inode - inode number 
+
+- Open file table 
